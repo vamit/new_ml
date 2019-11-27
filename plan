@@ -1,0 +1,14 @@
+Python  
+	- tensorflow / tensorflow
+	- donnemartin / system-design-primer
+	- vinta / awesome-python
+	- pallets / flask 						(Building Web Application)
+	- keras-team / keras					(Deep Learning for humans)
+	- django / django						(Web framework)
+	- scikit-learn / scikit-learn			(Machine Learning)
+	- scrapy / scrapy						(Web Crwaling/Scraping)
+	- pytorch / pytorch						(Machine Learning)
+	- pandas-dev / pandas					(Data Analysis/Manipulation)
+	- docker / compose						(Docker Application container)
+	- microsoft / CNTK						(Microsoft Coginitive Toolkit)
+	- encode / django-rest-framework		(Web APIs for Django)
